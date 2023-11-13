@@ -20,7 +20,7 @@ pip install numpy matplotlib
 ## Использование
 
 1. Клонируйте репозиторий: 
-        git clone https://github.com/your-username/your-repository.git
+        [git clone https://github.com/your-username/your-repository.git](https://github.com/SerKin0/Method_Newton)
     
 
 2. Импортируйте библиотеку и используйте её функции для решения уравнений с помощью метода Ньютона, визуализируя процесс поиска корней функции с помощью Matplotlib.
@@ -47,3 +47,4 @@ x0 = 3.000609771140295	b = 5	k = 4.001220542448891	x_on_0 = 3.000000093079278
 x0 = 3.000000093079278	b = 5	k = 4.000001187165481	x_on_0 = 3.0000000000000258
 3.000000093079278
 ```
+![Figure_2](https://github.com/SerKin0/Method_Newton/assets/71343548/8274450e-6ca3-499b-96b1-5ee641e5f528)
